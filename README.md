@@ -12,6 +12,7 @@ Describe the overall architecture of the application, including the frontend and
 Explain how Laravel, Laravel Blade, and Vue.js are utilized in the system.
 
 #Database Setup
+
 Mention the location of the database backup in the "db_backup" folder in the project's root directory.You need to setup the backup database .
 
 #Product Module
